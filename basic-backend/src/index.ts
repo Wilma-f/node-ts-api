@@ -13,5 +13,5 @@ app.use(express.json());
 app.use("/hello", helloRouter);
 
 app.listen(PORT, () => {
-  console.log(`🚀 Server running on http://localhost:${PORT}`);
+  console.log(` Server running on http://localhost:${PORT}`);
 });
