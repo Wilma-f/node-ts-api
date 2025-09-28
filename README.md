@@ -2,13 +2,13 @@
 
 A minimal backend starter project using **Node.js**, **Express**, **TypeScript**, and **ES Modules (via tsx)**.
 
-## 🚀 Features
+## Features
 - Express server with TypeScript
 - ES Module support
 - Hot reload using `tsx`
 - Environment variables with `.env`
 
-## 📦 Setup
+## Setup
 ```bash
 git clone https://github.com/your-username/base-api.git
 cd base-api
